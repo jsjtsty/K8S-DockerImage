@@ -7,3 +7,4 @@
 openjdk:21
 mysql:8.0.38
 nginx:1.27
+redis:7.2
