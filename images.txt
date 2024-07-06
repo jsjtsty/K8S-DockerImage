@@ -4,11 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-openjdk:21
-openjdk:8
-openjdk:17
-openjdk:11
-mysql:8.0.38
-nginx:1.27
-redis:7.2
-centos:centos7.9.2009
+ubuntu:22.04
